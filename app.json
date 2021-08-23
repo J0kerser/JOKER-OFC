@@ -1,9 +1,9 @@
 {
-    "name": "marvel",
-    "description": "marvel - Whatsapp Bot",
-    "logo": "https://i.hizliresim.com/phdfstq.jpeg",
+    "name": "JOKER",
+    "description": "JOKER - Whatsapp Bot",
+    "logo": "https://i.imgur.com/C1ZvMjg.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Tony-alex1-marvel",
+    "repository": "https://github.com/J0kerser/JOKER-OFC",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",

@@ -1,4 +1,5 @@
-<div align="center
+
+<div align="center">
   <img border-radius: 15px src="87007820.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Jokerbot" src="https://img.shields.io/badge/Jokerbot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>

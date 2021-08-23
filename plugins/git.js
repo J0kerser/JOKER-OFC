@@ -21,9 +21,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Coded By Jokerser*
 *Joker Bot😈* http://ẉa.me/➳Jokerser
 *Owner number wa.me/919446697883*
-*githublink       https://github.com/J0kerser/Jokerbot*
-*audio commads    https://github.com/J0kerser/Jokerbot/tree/master/uploads*
-*sticker commads  https://github.com/J0kerser/Jokerbot/tree/master/stickers*
+*githublink       https://github.com/J0kerser/JOKER-OFC*
+*audio commads    https://github.com/J0kerser/JOKER-OFC/uploads*
+*sticker commads  https://github.com/J0kerser/JOKER-OFC/stickers*
 *support group    https://chat.whatsapp.com/LGzd6GnuFjMFOJI6LC9Iic*
 `}) 
 

@@ -5,7 +5,7 @@
 <a href="#"><img title="Joker OFC" src="https://img.shields.io/badge/JOKER-OFC-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/J0kerser"><img title="Author" src="https://img.shields.io/badge/Author-J0kerser/JOKER OFC?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/J0kerser"><img title="Author" src="https://img.shields.io/badge/Author-J0kerser/JOKER-OFC?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
